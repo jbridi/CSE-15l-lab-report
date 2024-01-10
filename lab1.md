@@ -4,7 +4,7 @@
 
 * When running cd with no argument brings you to the home directory 
 * When running ls with no argument the output was lab1 lecture1 because ls lists all the directories and files under /home
-* When running cat with no argument 
+* When running cat with no argument goes into state where it return what you just types for example if you type hi it will return hi 
 ## an example of using the command with a path to a directory as an argument
 ![Image](sc2.png)
 *When running cd with a directory as an argument the output 
