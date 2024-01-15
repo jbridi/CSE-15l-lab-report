@@ -1,6 +1,6 @@
 # Lab 1
 ## an example of using the command with no arguments
-![Image](sc1.png)
+![Image](Img1.png)
 
 * When running cd with no argument brings you to the home directory 
 * When running ls with no argument the output was lab1 lecture1 because ls lists all the directories and files under /home
